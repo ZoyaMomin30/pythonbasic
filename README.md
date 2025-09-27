@@ -1,1 +1,1 @@
-![alt text](http://url/to/oop.png)
+![alt text](/oop.png)
