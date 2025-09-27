@@ -1,0 +1,5 @@
+Hello, this is Python!
+Writing to a file is easy.
+writing inside a file using write function
+
+This line is appended.
